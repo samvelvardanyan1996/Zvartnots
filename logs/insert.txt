@@ -1,0 +1,143 @@
+1701201800Z - Warning: olready exists! 17.01.2020 14:46:23
+1701201800Z - Warning: olready exists! 17.01.2020 14:53:42
+1801201300Z - success on Insert data! 18.01.2020 09:15:29
+1801201330Z - Error on insert: data is empty! 18.01.2020 09:36:43
+1801201330Z - Error on insert: data is empty! 18.01.2020 09:43:56
+1801201330Z - Error on insert: data is empty! 18.01.2020 09:44:36
+--------
+1801201400Z - Success on insert data! 18.01.2020 10:16:45
+1801201400Z - Warning: olready exists! 18.01.2020 10:27:04
+1801201430Z - Success on insert data! 18.01.2020 10:32:23
+1801201430Z - Success on insert data! 18.01.2020 10:42:06
+1801201430Z - Warning: olready exists! 18.01.2020 10:52:02
+1801201500Z - Success on insert data! 18.01.2020 11:12:06
+1801201700Z - Success on insert data! 18.01.2020 13:02:02
+1801201730Z - Success on insert data! 18.01.2020 13:32:01
+1801201800Z - Success on insert data! 18.01.2020 14:02:01
+1801201830Z - Success on insert data! 18.01.2020 14:32:01
+2001201100Z - Error on insert: data is empty! 20.01.2020 07:28:39
+2001201200Z - Error on insert: data is empty! 20.01.2020 08:18:03
+2001201200Z - Error on insert: data is empty! 20.01.2020 08:19:49
+2001201200Z - Success on insert data! 20.01.2020 08:22:31
+2001201200Z - Warning: olready exists! 20.01.2020 08:29:27
+2001201200Z - Success on insert data! 20.01.2020 08:29:49
+2101201130Z - Error on insert: data is empty! 21.01.2020 07:57:05
+2901201500Z - Error on insert: data is empty! 29.01.2020 11:13:03
+0302201200Z - Error on insert: data is empty! 03.02.2020 08:15:10
+0302201200Z - Error on insert: data is empty! 03.02.2020 08:16:50
+0302201630Z - Error on insert: data is empty! 03.02.2020 12:31:18
+0402201700Z - Error on insert: data is empty! 04.02.2020 13:13:32
+0602201230Z - Error on insert: data is empty! 06.02.2020 08:45:38
+0602201230Z - Error on insert: data is empty! 06.02.2020 08:57:05
+0602201230Z - Error on insert: data is empty! 06.02.2020 08:57:13
+0602201300Z - Error on insert: data is empty! 06.02.2020 09:09:47
+0602201300Z - Success on insert data! 06.02.2020 09:12:59
+0602201400Z - Success on insert data! 06.02.2020 10:19:08
+0602201430Z - Success on insert data! 06.02.2020 10:37:20
+0602201430Z - Warning: olready exists! 06.02.2020 10:41:40
+0602201530Z - Success on insert data! 06.02.2020 11:43:22
+0602201530Z - Warning: olready exists! 06.02.2020 11:58:12
+0602201600Z - Success on insert data! 06.02.2020 12:04:02
+0602201630Z - Success on insert data! 06.02.2020 12:32:02
+0602201830Z - Success on insert data! 06.02.2020 14:32:01
+0602201900Z - Success on insert data! 06.02.2020 15:02:01
+0602201930Z - Success on insert data! 06.02.2020 15:32:01
+0702201130Z - Error on insert: data is empty! 07.02.2020 07:32:01
+0702201130Z - Error on insert: data is empty! 07.02.2020 07:35:44
+0702201130Z - Success on insert data! 07.02.2020 07:43:29
+0702201130Z - Warning: olready exists! 07.02.2020 07:55:27
+0702201200Z - Success on insert data! 07.02.2020 08:02:02
+0702201200Z - Warning: olready exists! 07.02.2020 08:02:30
+0702201200Z - Warning: olready exists! 07.02.2020 08:03:10
+0702201200Z - Warning: olready exists! 07.02.2020 08:03:22
+0702201231Z - Success on insert data! 07.02.2020 08:31:31
+0702201232Z - Success on insert data! 07.02.2020 08:32:01
+0702201238Z - Success on insert data! 07.02.2020 08:38:54
+0702201251Z - Success on insert data! 07.02.2020 08:51:36
+0702201252Z - Error on insert: data is empty! 07.02.2020 08:52:26
+0702201258Z - Error on insert: data is empty! 07.02.2020 08:58:58
+0702201259Z - Error on insert: data is empty! 07.02.2020 08:59:24
+0702201300Z - Error on insert: data is empty! 07.02.2020 09:00:34
+0702201301Z - Error on insert: data is empty! 07.02.2020 09:01:36
+0702201301Z - Error on insert: data is empty! 07.02.2020 09:01:56
+0702201302Z - Error on insert: data is empty! 07.02.2020 09:02:37
+0702201303Z - Error on insert: data is empty! 07.02.2020 09:03:03
+0702201303Z - Success on insert data! 07.02.2020 09:03:40
+0702201305Z - Error on insert: data is empty! 07.02.2020 09:05:16
+0702201310Z - Success on insert data! 07.02.2020 09:10:02
+0702201311Z - Success on insert data! 07.02.2020 09:11:13
+0702201311Z - Warning: olready exists! 07.02.2020 09:11:57
+0702201312Z - Success on insert data! 07.02.2020 09:12:19
+0702201313Z - Success on insert data! 07.02.2020 09:13:35
+0702201313Z - Warning: olready exists! 07.02.2020 09:13:37
+0702201313Z - Warning: olready exists! 07.02.2020 09:13:39
+0702201314Z - Error on insert: data is empty! 07.02.2020 09:14:58
+0702201507Z - Error on insert: data is empty! 07.02.2020 11:07:00
+0702201520Z - Success on insert data! 07.02.2020 11:20:59
+0702201122Z - Success on insert data! 07.02.2020 11:22:55
+0702201234Z - Success on insert data! 07.02.2020 12:34:08
+0702201236Z - Success on insert data! 07.02.2020 12:36:46
+0702201237Z - Success on insert data! 07.02.2020 12:37:46
+0702201424Z - Success on insert data! 07.02.2020 14:24:46
+0702201425Z - Success on insert data! 07.02.2020 14:25:46
+0702201426Z - Success on insert data! 07.02.2020 14:26:46
+0702201427Z - Success on insert data! 07.02.2020 14:27:46
+0702201428Z - Success on insert data! 07.02.2020 14:28:46
+0702201429Z - Success on insert data! 07.02.2020 14:29:46
+0702201430Z - Success on insert data! 07.02.2020 14:30:47
+0702201431Z - Success on insert data! 07.02.2020 14:31:46
+0702201432Z - Success on insert data! 07.02.2020 14:32:46
+0702201433Z - Success on insert data! 07.02.2020 14:33:46
+0702201434Z - Success on insert data! 07.02.2020 14:34:46
+0702201435Z - Success on insert data! 07.02.2020 14:35:46
+0702201436Z - Success on insert data! 07.02.2020 14:36:46
+0702201505Z - Success on insert data! 07.02.2020 15:05:00
+0702201505Z - Warning: olready exists! 07.02.2020 15:05:58
+0702201506Z - Success on insert data! 07.02.2020 15:06:58
+0702201508Z - Success on insert data! 07.02.2020 15:08:16
+0702201509Z - Success on insert data! 07.02.2020 15:09:15
+0702201511Z - Success on insert data! 07.02.2020 15:11:19
+0702201512Z - Success on insert data! 07.02.2020 15:12:18
+0702201512Z - Warning: olready exists! 07.02.2020 15:12:47
+0702201547Z - Success on insert data! 07.02.2020 15:47:49
+0702201548Z - Success on insert data! 07.02.2020 15:48:47
+0702201549Z - Success on insert data! 07.02.2020 15:49:47
+0702201550Z - Success on insert data! 07.02.2020 15:50:47
+0702201551Z - Success on insert data! 07.02.2020 15:51:47
+0702201552Z - Success on insert data! 07.02.2020 15:52:47
+0702201553Z - Success on insert data! 07.02.2020 15:53:47
+0702201554Z - Success on insert data! 07.02.2020 15:54:47
+0702201555Z - Success on insert data! 07.02.2020 15:55:47
+0702201556Z - Success on insert data! 07.02.2020 15:56:47
+0702201557Z - Success on insert data! 07.02.2020 15:57:47
+0702201558Z - Success on insert data! 07.02.2020 15:58:47
+0702201559Z - Success on insert data! 07.02.2020 15:59:47
+0702201600Z - Success on insert data! 07.02.2020 16:00:47
+0702201601Z - Success on insert data! 07.02.2020 16:01:47
+0702201602Z - Success on insert data! 07.02.2020 16:02:47
+0702201603Z - Success on insert data! 07.02.2020 16:03:47
+0702201604Z - Success on insert data! 07.02.2020 16:04:47
+0702201605Z - Success on insert data! 07.02.2020 16:05:47
+0702201606Z - Success on insert data! 07.02.2020 16:06:47
+0702201607Z - Success on insert data! 07.02.2020 16:07:47
+0702201608Z - Success on insert data! 07.02.2020 16:08:47
+0702201609Z - Success on insert data! 07.02.2020 16:09:47
+1002201502Z - Error on insert: data is empty! 10.02.2020 15:02:02
+1002201515Z - Error on insert: data is empty! 10.02.2020 15:15:41
+1002201516Z - Error on insert: data is empty! 10.02.2020 15:16:30
+1002201516Z - Error on insert: data is empty! 10.02.2020 15:16:32
+1002201516Z - Error on insert: data is empty! 10.02.2020 15:16:56
+1002201517Z - Error on insert: data is empty! 10.02.2020 15:17:49
+1002201519Z - Error on insert: data is empty! 10.02.2020 15:19:13
+1002201519Z - Error on insert: data is empty! 10.02.2020 15:19:50
+1002201520Z - Error on insert: data is empty! 10.02.2020 15:20:59
+1302200741Z - Error on insert: data is empty! 13.02.2020 07:41:19
+1302200744Z - Error on insert: data is empty! 13.02.2020 07:44:49
+1302200752Z - Success on insert data! 13.02.2020 07:52:20
+1302200854Z - Success on insert data! 13.02.2020 08:54:31
+1302200855Z - Success on insert data! 13.02.2020 08:55:11
+1302200929Z - Success on insert data! 13.02.2020 09:29:15
+1302200939Z - Success on insert data! 13.02.2020 09:39:55
+1302200930Z - Success on insert data! 13.02.2020 09:42:17
+1302200930Z - Warning: olready exists! 13.02.2020 09:42:21
+1302200947Z - Success on insert data! 13.02.2020 09:47:12

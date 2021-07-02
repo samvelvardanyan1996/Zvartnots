@@ -1,0 +1,1 @@
+"C:\ospanel\OSPanel\modules\php\PHP_7.1-x64\php-cgi.exe" -f C:\ospanel\OSPanel\domains\zvartnoc\get_image.php
